@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:padding="16dp">
 
     <TextView
@@ -30,7 +29,7 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:backgroiund="#c3c3c3"
+        android:background="#c3c3c3"
         app:layout_constraintTop_toBottomOf="@+id/timeTV"
         />
 
