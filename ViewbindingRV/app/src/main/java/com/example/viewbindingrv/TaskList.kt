@@ -1,7 +1,7 @@
 package com.example.viewbindingrv
 
 object TaskList {
-    val taskListv = listOf<Task>(
+    val taskList = listOf<Task>(
         Task("Take a Walk", timeStamp = "7:00 am"),
         Task("Eat Breakfast", timeStamp = "8:00 am"),
         Task("Attend a Meeting", timeStamp = "9:00 am"),
