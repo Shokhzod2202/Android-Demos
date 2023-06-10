@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
             }
             var addInfo = "Info "
 
+
             // You can see it -> for(i in (myArray.size - 1))
             for (i in 1 until myArray.size){
                 addInfo += "myArray -> $myArray \n"
@@ -55,6 +56,9 @@ class MainActivity : AppCompatActivity() {
 
             AddInfos?.text = addInfo
             myOutput?.text = myArray.toString()
+
+
+
         }
 
 
