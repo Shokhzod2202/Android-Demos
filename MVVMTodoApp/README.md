@@ -9,7 +9,7 @@ Devide the project to 3 layers:
  - Business Logic       (Pure application logic. Ex: Search, Sort etc.)
  - Data                 (Local: Room, etc. Remote: API, ManogoDB, etc.)
 
-
+```
 |---data
 |  |---Todo                 ( Entity: will contain all the fields that we want to save with a single Todo Item.)
 |  |---TodoDao              ( Dao: Data Access Object. It is used to access our data. Defines how we access.)
@@ -34,6 +34,8 @@ Devide the project to 3 layers:
 |
 |---MainActivity
 |---TodoApp
+
+```
 
 ### dagger.hilt
     - Create a new class called `TodoApp` in your root package.
