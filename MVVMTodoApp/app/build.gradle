@@ -88,5 +88,5 @@ dependencies {
 
     // Added Deps:
     // Kotlin Extensions and Coroutines support for Room
-    implementation "androidx.room:room-ktx:2.5.1"
+    implementation "androidx.room:room-ktx:2.3.0"
 }

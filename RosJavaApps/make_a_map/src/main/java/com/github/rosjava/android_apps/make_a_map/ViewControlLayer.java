@@ -37,9 +37,6 @@ import org.ros.concurrent.ListenerGroup;
 import org.ros.concurrent.SignalRunnable;
 import org.ros.node.ConnectedNode;
 
-/**
- * @author murase@jsk.imi.i.u-tokyo.ac.jp (Kazuto Murase)
- */
 public class ViewControlLayer extends CameraControlLayer {
 
     private final Context context;

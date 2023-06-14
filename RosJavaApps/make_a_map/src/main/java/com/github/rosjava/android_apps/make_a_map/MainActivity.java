@@ -57,7 +57,7 @@ import java.util.concurrent.TimeUnit;
 import world_canvas_msgs.SaveMapResponse;
 
 /**
- * @author murase@jsk.imi.i.u-tokyo.ac.jp (Kazuto Murase)
+ * @author Khaydarov Shokhzod
  */
 public class MainActivity extends RosAppActivity {
 

@@ -15,6 +15,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.plcoding.mvvmtodoapp.data.Todo
 
+
 @Composable
 fun TodoItem(
     todo: Todo,
